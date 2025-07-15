@@ -7,7 +7,7 @@ The purpose of this project is to perform LZ78 compression and decompression wit
 1. Clone the repo  
   ```bash
   git clone https://github.com/yourusername/fifteen-game.git
-  cd game-of-life
+  cd lz78-compression
   ```
 2. Build the project
   ```
