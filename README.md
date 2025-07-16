@@ -15,7 +15,7 @@ The purpose of this project is to perform LZ78 compression and decompression wit
   ```
 3. Run the game with desired flags
   ```
-  ./encode -i			Sets input file to compress (default: stdin)
+    ./encode -i			Sets input file to compress (default: stdin)
     ./encode -o			Sets output file for compressed input (default: stdout)
     ./encode -v			Prints verbose program output
     ./encode -h			Prints out program help and usage
