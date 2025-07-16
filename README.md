@@ -45,4 +45,4 @@ The purpose of this project is to perform LZ78 compression and decompression wit
 | `Makefile`      | Compiles the program using `clang` and applies `clang-format` to all source files |
 
 
-![Screenshot of the game](image.png)
+![Screenshot of the project](image.png)
